@@ -46,26 +46,26 @@ struct UsersObject
 };
 
 // Define temple string
-string temple1;
-string temple2;
+extern string temple1;
+extern string temple2;
 
 // Define csv file in variables
-BooksObject books[1000];
-int n = 0;
+extern BooksObject books[1000];
+extern int n;
 
 // Define csv file in variables
-UsersObject users[1000];
-int m = 0;
+extern UsersObject users[1000];
+extern int m;
 
 // Get current date
-time_t now = time(nullptr);
-tm *ltm = localtime(&now);
+extern time_t now;
+extern tm *ltm;
 
 // Define overdue date
-int overdueDate = 7;
+extern int overdueDate;
 
 // Define price per one overdue day
-int pricePerOneOverdueDay = 10000;
+extern int pricePerOneOverdueDay;
 
 // Center text function
 void centerText(const string& text);
