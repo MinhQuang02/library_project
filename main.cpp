@@ -1,5 +1,17 @@
 #include "function.h"
 
+// Define global all variables
+string temple1;
+string temple2;
+BooksObject books[1000];
+int n = 0;
+UsersObject users[1000];
+int m = 0;
+time_t now = time(nullptr);
+tm *ltm = localtime(&now);
+int overdueDate = 7;
+int pricePerOneOverdueDay = 10000;
+
 int main() 
 {
     // Import all books from books_dataset.csv to database and datastructure
