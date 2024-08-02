@@ -1,0 +1,175 @@
+ID,Book,Author(s),Original language,First published,Approximate sales in millions,Genre,Remain Books
+1032,A Tale of Two Cities,Charles Dickens,English,1859,200,Historical fiction,40
+1053,The Little Prince (Le Petit Prince),Antoine de Saint-Exupery,French,1943,200,Novella,36
+1097,Harry Potter and the Philosopher's Stone,J. K. Rowling,English,1997,120,Fantasy,23
+1130,And Then There Were None,Agatha Christie,English,1939,100,Mystery,34
+1320,Dream of the Red Chamber,Cao Xueqin,Chinese,1791,100,Family saga,9
+1344,The Hobbit,J. R. R. Tolkien,English,1937,100,Fantasy,44
+1423,"The Lion, the Witch and the Wardrobe",C. S. Lewis,English,1950,85,"Fantasy, Children's fiction",18
+1432,She: A History of Adventure,H. Rider Haggard,English,1887,83,Adventure,44
+1563,Vardi Wala Gunda,Ved Prakash Sharma,Hindi,1992,80,Detective,24
+1585,The Da Vinci Code,Dan Brown,English,2003,80,Mystery thriller,37
+1696,Harry Potter and the Chamber of Secrets,J. K. Rowling,English,1998,77,Fantasy,47
+1828,Harry Potter and the Prisoner of Azkaban,J. K. Rowling,English,1999,65,Fantasy,36
+1871,Harry Potter and the Goblet of Fire,J. K. Rowling,English,2000,65,Fantasy,27
+1957,Harry Potter and the Order of the Phoenix,J. K. Rowling,English,2003,65,Fantasy,6
+2066,Harry Potter and the Half-Blood Prince,J. K. Rowling,English,2005,65,Fantasy,46
+2080,Harry Potter and the Deathly Hallows,J. K. Rowling,English,2007,65,Fantasy,41
+2240,The Alchemist (O Alquimista),Paulo Coelho,Portuguese,1988,65,Fantasy,47
+2265,The Catcher in the Rye,J. D. Salinger,English,1951,65,Coming-of-age,43
+2288,The Bridges of Madison County,Robert James Waller,English,1992,60,Romance,45
+2307,Ben-Hur: A Tale of the Christ,Lew Wallace,English,1880,50,Historical fiction,38
+2313,You Can Heal Your Life,Louise Hay,English,1984,50,Self-help,49
+2362,One Hundred Years of Solitude (Cien anos de soledad),Gabriel Garcia Marquez,Spanish,1967,50,Magic realism,5
+2382,Lolita,Vladimir Nabokov,English,1955,50,Novel,27
+2422,Heidi,Johanna Spyri,German,1880,50,Children's fiction,5
+2429,The Common Sense Book of Baby and Child Care,Benjamin Spock,English,1946,50,Manual,8
+2443,Anne of Green Gables,Lucy Maud Montgomery,English,1908,50,Children's novel,34
+2450,Black Beauty,Anna Sewell,English,1877,50,Children's literature,22
+2456,The Name of the Rose (Il Nome della Rosa),Umberto Eco,Italian,1980,50,"Historical novel, mystery",20
+2473,The Eagle Has Landed,Jack Higgins,English,1975,50,"War, thriller",32
+2508,Watership Down,Richard Adams,English,1972,50,Fantasy,33
+2510,The Hite Report,Shere Hite,English,1976,50,Sexology,7
+2518,Charlotte's Web,E. B. White; illustrated by Garth Williams,English,1952,50,Children's fiction,48
+2536,The Ginger Man,J. P. Donleavy,English,1955,50,Novel,13
+2539,The Tale of Peter Rabbit,Beatrix Potter,English,1902,45,Children's Literature,46
+2575,Jonathan Livingston Seagull,Richard Bach,English,1970,44,"Novella, Self-help",27
+2584,The Very Hungry Caterpillar,Eric Carle,English,1969,43,"Children's Literature, picture book",31
+2798,A Message to Garcia,Elbert Hubbard,English,1899,40,Essay/Literature,16
+2810,To Kill a Mockingbird,Harper Lee,English,1960,40,"Southern Gothic, Bildungsroman",42
+2872,Flowers in the Attic,V. C. Andrews,English,1979,40,"Gothic horror, Family saga",28
+2884,Cosmos,Carl Sagan,English,1980,40,"Popular science, Anthropology, Astrophysics, Cosmology, Philosophy, History",43
+2911,Sophie's World (Sofies verden),Jostein Gaarder,Norwegian,1991,40,"Philosophical novel, Young adult",47
+2973,Angels & Demons,Dan Brown,English,2000,39,Mystery-thriller,38
+2993,Kane and Abel,Jeffrey Archer,English,1979,37,Novel,35
+3067,How the Steel Was Tempered,Nikolai Ostrovsky,Russian,1932,36,Socialist realist novel,22
+3085,War and Peace,Leo Tolstoy,Russian,1869,36,Historical novel,18
+3127,The Adventures of Pinocchio (Le avventure di Pinocchio),Carlo Collodi,Italian,1881,35,"Fantasy, Children's fiction",23
+3142,The Diary of Anne Frank (Het Achterhuis),Anne Frank,Dutch,1947,35,"Historical non-fiction, Autobiography, Memoir, Bildungsroman / Coming of Age, Jewish literature",47
+3145,Your Erroneous Zones,Wayne Dyer,English,1976,35,Self-help,44
+3215,The Thorn Birds,Colleen McCullough,English,1977,33,Romantic family saga,14
+3216,The Purpose Driven Life,Rick Warren,English,2002,33,Christian literature,46
+3239,The Kite Runner,Khaled Hosseini,English,2003,31,"Bildungsroman, Historical fiction",2
+3343,Valley of the Dolls,Jacqueline Susann,English,1966,31,Novel,27
+3376,Alcoholics Anonymous Big Book,Bill Wilson,English,1939,30,Self-help,38
+3586,How to Win Friends and Influence People,Dale Carnegie,English,1936,30,Self-help,10
+3640,The Great Gatsby,F. Scott Fitzgerald,English,1925,30,"Novel, tragedy",7
+3670,Gone with the Wind,Margaret Mitchell,English,1936,30,Historical fiction,45
+3672,Rebecca,Daphne du Maurier,English,1938,30,Gothic novel,28
+3765,Nineteen Eighty-Four,George Orwell,English,1949,30,"Dystopian, political fiction, social science fiction",29
+3819,The Revolt of Mamie Stover,William Bradford Huie,English,1951,30,Fiction,32
+3890,The Girl with the Dragon Tattoo (Man som hatar kvinnor),Stieg Larsson,Swedish,2005,30,Fiction,45
+3949,The Lost Symbol,Dan Brown,English,2009,30,Fiction,27
+4065,The Hunger Games,Suzanne Collins,English,2008,29,Young adult fiction,47
+4085,James and the Giant Peach,Roald Dahl,English,1961,28,Children's novel,21
+4086,The Young Guard,Alexander Alexandrovich Fadeyev,Russian,1945,26,Young adult historical novel,48
+4108,Who Moved My Cheese?,Spencer Johnson,English,1998,29,"Self-help, motivational, business fable, psychology, leadership, parable",4
+4186,A Brief History of Time,Stephen Hawking,English,1988,25,Popular science,35
+4194,Paul et Virginie,Jacques-Henri Bernardin de Saint-Pierre,French,1788,25,Novel,8
+4249,Lust for Life,Irving Stone,English,1934,25,Biographical novel,28
+4337,The Wind in the Willows,Kenneth Grahame,English,1908,25,Children's literature,1
+4343,The 7 Habits of Highly Effective People,Stephen R. Covey,English,1989,25,Self-help,43
+4455,Virgin Soil Upturned,Mikhail Sholokhov,Russian,1935,24,Novel,15
+4511,The Celestine Prophecy,James Redfield,English,1993,23,New-age spiritual novel,8
+4541,The Fault in Our Stars,John Green,English,2012,23,Young adult romantic novel,19
+4588,The Girl on the Train,Paula Hawkins,English,2015,23,Thriller,46
+4630,The Shack,William P. Young,English,2007,22,Novel,44
+4688,Uncle Styopa,Sergey Mikhalkov,Russian,1936,21,"Children's Literature, picture book",28
+4743,The Godfather,Mario Puzo,English,1969,21,Crime novel,24
+4744,Love Story,Erich Segal,English,1970,21,Romance novel,20
+4766,Catching Fire,Suzanne Collins,English,2009,21,"Young Adult novel, adventure, dystopian, science fiction",14
+4811,Mockingjay,Suzanne Collins,English,2010,20,"Young Adult novel, adventure, war, science fiction, action thriller",37
+4832,Kitchen,Banana Yoshimoto,Japanese,1988,20,Japanese novel,29
+4836,Andromeda Nebula,Ivan Yefremov,Russian,1957,20,Science fiction novel,25
+4862,Autobiography of a Yogi,Paramahansa Yogananda,Hindi,1946,20,Autobiography,22
+4915,Gone Girl,Gillian Flynn,English,2012,20,Crime thriller novel,4
+4921,All Quiet on the Western Front (Im Westen nichts Neues),Erich Maria Remarque,German,1929,20,War novel,15
+5101,The Bermuda Triangle,Charles Berlitz,English,1974,20,NULL,4
+5123,Things Fall Apart ,Chinua Achebe,English,1958,20,Novel,5
+5140,Animal Farm ,George Orwell,English,1945,20,"Satirical allegorical novella, Political satire, Dystopian Fiction, Roman a clef",19
+5312,Wolf Totem,Jiang Rong,Chinese,2004,20,Semi-autobiographical novel,24
+5376,The Happy Hooker: My Own Story,Xaviera Hollander,English,1971,20,Memoir,29
+5402,Jaws,Peter Benchley,English,1974,20,Thriller,27
+5435,Love You Forever,Robert Munsch,English,1986,20,"Children's literature, picture book, fiction",9
+5451,The Women's Room,Marilyn French,English,1977,20,Feminist novel,20
+5485,What to Expect When You're Expecting,Arlene Eisenberg and Heidi Murkoff,English,1984,20,Pregnancy guide,28
+5553,Adventures of Huckleberry Finn,Mark Twain,English,1885,20,"Picaresque novel, Bildungsroman, satire, Robinsonade",45
+5600,"The Secret Diary of Adrian Mole, Aged 13",Sue Townsend,English,1982,20,Young adult novel,3
+5610,Pride and Prejudice,Jane Austen,English,1813,20,"Classic regency novel, romance",23
+5621,Kon-Tiki: Across the Pacific in a Raft (Kon-Tiki ekspedisjonen),Thor Heyerdahl,Norwegian,1950,20,Travel literature,24
+5707,The Good Soldier Svejk (Osudy dobreho vojaka Svejka za svetove valky),Jaroslav Hasek,Czech,1923,20,Unfinished satirical dark comedy novel,10
+5753,Where the Wild Things Are,Maurice Sendak,English,1963,20,Children's picture book,49
+5864,The Power of Positive Thinking,Norman Vincent Peale,English,1952,20,Self-help,26
+5902,The Secret,Rhonda Byrne,English,2006,20,Self-help,48
+5921,Fear of Flying,Erica Jong,English,1973,20,Romantic novel,2
+5929,Dune,Frank Herbert,English,1965,20,Science fiction novel,1
+5935,Charlie and the Chocolate Factory,Roald Dahl,English,1964,20,Children's fantasy novel,23
+5989,The Naked Ape,Desmond Morris,English,1968,20,"Social Science, Anthropology, Psychology",33
+6019,Where the Crawdads Sing,Delia Owens,English,2018,18,Coming-of-age Murder mystery,32
+6051,"Totto-chan, the Little Girl at the Window",Tetsuko Kuroyanagi,Japanese,1981,18,Autobiographical novel,23
+6054,Matilda,Roald Dahl,English,1988,17,Children's Literature,9
+6086,The Book Thief,Markus Zusak,English,2005,16,Young Adult Fiction,6
+6112,The Horse Whisperer,Nicholas Evans,English,1995,16,NULL,7
+6152,Goodnight Moon,Margaret Wise Brown,English,1947,16,Children's Literature,6
+6158,The Neverending Story (Die unendliche Geschichte),Michael Ende,German,1979,16,Children's Literature,16
+6344,All the Light We Cannot See,Anthony Doerr,English,2014,15,"Historical fiction, war novel",14
+6349,Fifty Shades of Grey,E. L. James,English,2011,15,Erotica,12
+6383,The Outsiders,S. E. Hinton,English,1967,15,NULL,49
+6390,Guess How Much I Love You,Sam McBratney,English,1994,15,NULL,34
+6682,Shōgun,James Clavell,English,1975,15,NULL,34
+6715,The Poky Little Puppy,Janette Sebring Lowrey,English,1942,15,NULL,42
+6757,The Pillars of the Earth,Ken Follett,English,1989,15,Historical fiction,23
+6808,Perfume (Das Parfum),Patrick Suskind,German,1985,15,NULL,21
+6871,The Grapes of Wrath,John Steinbeck,English,1939,15,NULL,28
+6895,The Shadow of the Wind (La sombra del viento),Carlos Ruiz Zafon,Spanish,2001,15,NULL,20
+7020,Interpreter of Maladies,Jhumpa Lahiri,English,2000,15,NULL,26
+7024,Becoming,Michelle Obama,English,2018,14,NULL,8
+7153,The Hitchhiker's Guide to the Galaxy,Douglas Adams,English,1979,14,Science fiction,15
+7154,Tuesdays with Morrie,Mitch Albom,English,1997,14,NULL,44
+7245,God's Little Acre,Erskine Caldwell,English,1933,14,NULL,47
+7274,Follow Your Heart (Va' dove ti porta il cuore),Susanna Tamaro,Italian,1994,14,NULL,33
+7336,A Wrinkle in Time,Madeleine L'Engle,English,1962,14,NULL,5
+7438,Long Walk to Freedom,Nelson Mandela,English,1994,14,NULL,35
+7548,The Old Man and the Sea,Ernest Hemingway,English,1952,13,NULL,21
+7753,Life After Life,Raymond Moody,English,1975,13,NULL,11
+7808,Peyton Place ,Grace Metalious,English,1956,12,NULL,45
+7832,The Giver,Lois Lowry,English,1993,12,Dystopian fiction,35
+7898,Me Before You,Jojo Moyes,English,2012,12,NULL,48
+8036,Norwegian Wood,Haruki Murakami,Japanese,1987,12,NULL,33
+8057,The Plague (La Peste),Albert Camus,French,1947,12,NULL,22
+8154,No Longer Human,Osamu Dazai,Japanese,1948,12,NULL,47
+8180,Man's Search for Meaning (Ein Psychologe erlebt das Konzentrationslager),Viktor Frankl,German,1946,12,NULL,33
+8201,The Divine Comedy (La Divina Commedia),Dante Alighieri,Italian,1304,11,NULL,28
+8225,The Prophet,Kahlil Gibran,English,1923,11,NULL,50
+8342,The Boy in the Striped Pyjamas,John Boyne,English,2006,11,NULL,1
+8376,The Exorcist,William Peter Blatty,English,1971,11,Horror,28
+8497,The Gruffalo,Julia Donaldson,English,1999,10,NULL,26
+8548,Fifty Shades Darker,E. L. James,English,2012,10,Erotica,42
+8571,Tobacco Road,Erskine Caldwell,English,1932,10,NULL,42
+8749,"Ronia, the Robber's Daughter",Astrid Lindgren,Swedish,1981,10,NULL,38
+8853,The Cat in the Hat,Dr. Seuss,English,1957,10,NULL,12
+8858,Diana: Her True Story,Andrew Morton,English,1992,10,NULL,29
+8914,The Help,Kathryn Stockett,English,2009,10,NULL,33
+8959,Catch-22,Joseph Heller,English,1961,10,NULL,15
+8966,The Stranger (L'Etranger),Albert Camus,French,1942,10,NULL,0
+8984,Eye of the Needle,Ken Follett,English,1978,10,NULL,48
+9053,The Lovely Bones,Alice Sebold,English,2002,10,NULL,9
+9059,Wild Swans,Jung Chang,English,1992,10,NULL,11
+9063,Santa Evita,Tomás Eloy Martínez,Spanish,1995,10,NULL,29
+9064,Night (Un di Velt Hot Geshvign),Elie Wiesel,Yiddish,1958,10,NULL,8
+9229,Confucius from the Heart,Yu Dan,Chinese,2006,10,NULL,5
+9231,The Total Woman,Marabel Morgan,English,1974,10,NULL,0
+9311,Knowledge-value Revolution,Taichi Sakaiya,Japanese,1985,10,NULL,22
+9359,Problems in China's Socialist Economy,Xue Muqiao,Chinese,1979,10,NULL,22
+9430,What Color Is Your Parachute?,Richard Nelson Bolles,English,1970,10,NULL,42
+9531,The Dukan Diet,Pierre Dukan,French,2000,10,NULL,27
+9549,The Joy of Sex,Alex Comfort,English,1972,10,NULL,44
+9551,The Gospel According to Peanuts,Robert L. Short,English,1965,10,NULL,33
+9583,The Subtle Art of Not Giving a Fuck,Mark Manson,English,2016,10,NULL,24
+9602,Life of Pi,Yann Martel,English,2001,10,NULL,40
+9637,The Front Runner,Patricia Nell Warren,English,1974,10,NULL,5
+9737,The Goal,Eliyahu M. Goldratt,English,1984,10,NULL,31
+9804,Fahrenheit 451,Ray Bradbury,English,1953,10,NULL,11
+9866,Angela's Ashes,Frank McCourt,English,1996,10,NULL,39
+9934,The Story of My Experiments with Truth,Mohandas Karamchand Gandhi,Gujarati,1929,10,NULL,48
+9949,Bridget Jones's Diary,Helen Fielding,English,1996,10,NULL,3
